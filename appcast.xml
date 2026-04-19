@@ -14,18 +14,16 @@
       <description><![CDATA[
         <h2>Welcome to DeadCenter 1.0!</h2>
         <ul>
-          <li><strong>Liquid Glass UI:</strong> Beautiful, customizable settings.</li>
-          <li><strong>Window Physics:</strong> Smooth ease-out animations to perfectly center your apps.</li>
-          <li><strong>Supporter Perks:</strong> Exclusive Slingshot and Gravity Drop animations for BMC supporters.</li>
+          <li>Initial Release</li>
         </ul>
       ]]></description>
       
-      <enclosure url="https://github.com/Redstoneinvente/DeadCenter/releases/download/Release/DeadCenter_1.0.0.zip"
+      <enclosure url="https://github.com/Redstoneinvente/DeadCenter/releases/download/Release/Dead.Center.zip"
                  sparkle:version="1.0.0"
                  sparkle:shortVersionString="1.0.0"
-                 length="6230550"
+                 length="6278490"
                  type="application/octet-stream"
-                 sparkle:edSignature="OwErbIMLy52Lt9huQrxE6+/FW08Uej2zzrCJ+8wu1/YuysC8y2fkBctj2pbUyrq8zyn4bUTg+NxPeGwNjZAyBg==" />
+                 sparkle:edSignature="jCqRYk8tFLEasJDqBQjol2Nep0/+chaWMwRn3G/tyTFAT+9fUy2LozuDKv9r/94VE/zcWBNzLa4KAq6881BHAw==" />
     </item>
     
   </channel>
