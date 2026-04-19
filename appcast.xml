@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>DeadCenter Updates</title>
+    <link>https://yourwebsite.com/appcast.xml</link>
+    <description>Most recent updates to DeadCenter.</description>
+    <language>en</language>
+    
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Sun, 19 Apr 2026 13:31:56 +0400</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      
+      <description><![CDATA[
+        <h2>Welcome to DeadCenter 1.0!</h2>
+        <ul>
+          <li><strong>Liquid Glass UI:</strong> Beautiful, customizable settings.</li>
+          <li><strong>Window Physics:</strong> Smooth ease-out animations to perfectly center your apps.</li>
+          <li><strong>Supporter Perks:</strong> Exclusive Slingshot and Gravity Drop animations for BMC supporters.</li>
+        </ul>
+      ]]></description>
+      
+      <enclosure url="https://yourwebsite.com/downloads/DeadCenter_1.0.0.zip"
+                 sparkle:version="1.0.0"
+                 sparkle:shortVersionString="1.0.0"
+                 length="1234567"
+                 type="application/octet-stream"
+                 sparkle:edSignature="YOUR_GENERATED_SIGNATURE_HERE" />
+    </item>
+    
+  </channel>
+</rss>
