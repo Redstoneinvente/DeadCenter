@@ -7,7 +7,7 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.0.1</title>
+      <title>Version 1.0.2</title>
       <pubDate>Sun, 19 Apr 2026 13:31:56 +0400</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       
@@ -19,8 +19,8 @@
       ]]></description>
       
       <enclosure url="https://github.com/Redstoneinvente/DeadCenter/releases/download/v1.0.1/Dead.Center.zip"
-                 sparkle:version="1.0.1"
-                 sparkle:shortVersionString="1.0.1"
+                 sparkle:version="1.0.2"
+                 sparkle:shortVersionString="1.0.2"
                  length="6276054"
                  type="application/octet-stream"
                  sparkle:edSignature="RYXy9PSv7KnWH7ymHeXFLmbRhC8Mlsj21QejgYIWNiB/81Tx30Uv/jHkn19Hwgc5Pr6ezHKiunYjt9UCWgBdBg=="/>
