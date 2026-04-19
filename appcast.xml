@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>DeadCenter Updates</title>
-    <link>https://yourwebsite.com/appcast.xml</link>
+    <link>https://github.com/Redstoneinvente/DeadCenter/blob/main/appcast.xml</link>
     <description>Most recent updates to DeadCenter.</description>
     <language>en</language>
     
