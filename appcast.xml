@@ -20,12 +20,12 @@
         </ul>
       ]]></description>
       
-      <enclosure url="https://yourwebsite.com/downloads/DeadCenter_1.0.0.zip"
+      <enclosure url="https://github.com/Redstoneinvente/DeadCenter/releases/download/Release/DeadCenter_1.0.0.zip"
                  sparkle:version="1.0.0"
                  sparkle:shortVersionString="1.0.0"
-                 length="1234567"
+                 length="6230550"
                  type="application/octet-stream"
-                 sparkle:edSignature="dPnYBZm64MbylsUryasZKzwSx5fmEnsV6LBFtAsrJKA=" />
+                 sparkle:edSignature="OwErbIMLy52Lt9huQrxE6+/FW08Uej2zzrCJ+8wu1/YuysC8y2fkBctj2pbUyrq8zyn4bUTg+NxPeGwNjZAyBg==" />
     </item>
     
   </channel>
