@@ -7,6 +7,26 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.3</title>
+      <pubDate>Sun, 22 Apr 2026 13:31:56 +0400</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      
+      <description><![CDATA[
+        <h2>Welcome to DeadCenter 1.0.3!</h2>
+        <ul>
+          <li>Fixed Launch At Login issues.</li>
+        </ul>
+      ]]></description>
+      
+      <enclosure url="https://github.com/Redstoneinvente/DeadCenter/releases/download/v1.0.3/Dead.Center.zip"
+                 sparkle:version="1.0.3"
+                 sparkle:shortVersionString="1.0.3"
+                 length="6279402"
+                 type="application/octet-stream"
+                 sparkle:edSignature="AcH8UP121pVnET6FC1aGyU2RV2pBQKs5IccKY9KS/Tx6a+mUh7EWPS2+5qnyBahZxwoRkj8U8D8jZZeAW2H+CQ=="/>
+    </item>
+
+    <item>
       <title>Version 1.0.2</title>
       <pubDate>Sun, 21 Apr 2026 13:31:56 +0400</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
